@@ -1,6 +1,6 @@
 - Hi, I’m @AlexM-CS, or Alex.
 - I’m interested in coding projects, big and small.
-- I’m currently learning Java.
+- I’m currently learning C and C#, and have experience with Python, Java, HTML, CSS, Lua, and more!
 - I’m looking to collaborate on projects that could help me build me skillset.
 - 
 - How to reach me:
